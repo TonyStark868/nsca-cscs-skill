@@ -1,0 +1,17 @@
+{
+  "skills": [
+    {
+      "name": "nsca-cscs",
+      "version": "1",
+      "description": "NSCA-CSCS体能教练认证指南(第4版)学习助手：章节索引+要点笔记+按页OCR调取工具（不含书，需用户自备扫描件）",
+      "files": [
+        "nsca-cscs.md",
+        "references/chapter-index.md",
+        "references/key-concepts.md",
+        "references/book-path.example.txt",
+        "scripts/ocr_pages.py",
+        "scripts/requirements.txt"
+      ]
+    }
+  ]
+}
